@@ -1,0 +1,14 @@
+PODS:
+  - MyFramework (1.0.0)
+
+DEPENDENCIES:
+  - MyFramework (from `../MyFramework/`)
+
+EXTERNAL SOURCES:
+  MyFramework:
+    :path: ../MyFramework/
+
+SPEC CHECKSUMS:
+  MyFramework: 2a75cd9ba0d94508e029ab2b7ab8ffb850aa7e6f
+
+COCOAPODS: 0.36.0.beta.1
